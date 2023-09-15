@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8ca6d91-826c-4b0c-b00c-4192398705f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/JettyServerTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPICategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIOrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIProduct.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VMBJURyz8hcXKW8FdiCDUrrwAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sn.ept.git.dic2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAPIClient">
+    <configuration name="All in VenteVelosTesting (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VenteVelosTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in VenteVelosTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VenteVelosTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPICategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VenteVelosTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sn.ept.git.dic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sn.ept.git.dic2" />
+      <option name="MAIN_CLASS_NAME" value="sn.ept.git.dic2.TestAPICategory" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VenteVelosTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sn.ept.git.dic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sn.ept.git.dic2" />
+      <option name="MAIN_CLASS_NAME" value="sn.ept.git.dic2.TestAPIClient" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPIOrderItem.testDeleteOrderItemByIdEndpoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VenteVelosTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sn.ept.git.dic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sn.ept.git.dic2" />
+      <option name="MAIN_CLASS_NAME" value="sn.ept.git.dic2.TestAPIOrderItem" />
+      <option name="METHOD_NAME" value="testDeleteOrderItemByIdEndpoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAPIClient" />
+        <item itemvalue="JUnit.TestAPICategory" />
+        <item itemvalue="JUnit.All in VenteVelosTesting (1)" />
+        <item itemvalue="JUnit.All in VenteVelosTesting" />
+        <item itemvalue="JUnit.TestAPIOrderItem.testDeleteOrderItemByIdEndpoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ca6d91-826c-4b0c-b00c-4192398705f4" name="Changes" comment="" />
+      <created>1694636001423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694636001423</updated>
+      <workItem from="1694636002612" duration="8600000" />
+      <workItem from="1694725107075" duration="17169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sn/ept/git/dic2/TestAPIProduct.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VenteVelosTesting$All_in_VenteVelosTesting__1_.ic" NAME="All in VenteVelosTesting (1) Coverage Results" MODIFIED="1694739998607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
